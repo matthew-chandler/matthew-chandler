@@ -1,6 +1,6 @@
 ### About me
 
-Hi, I'm Matthew, a second-year computer engineering student at UCLA. I mostly work on web stuff with the occasional low-level project. Please feel free to leave an issue on any of my repositories if you want something added or have a question.
+Hi, I'm Matthew, a second-year computer engineering student at [UCLA](https://www.ucla.edu/). I mostly work on web stuff with the occasional low-level project. Please feel free to leave an issue on any of my repositories if you want something added or have a question.
 
 ### Currently working on
 
