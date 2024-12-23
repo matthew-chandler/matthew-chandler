@@ -4,7 +4,7 @@ Hi, I'm Matthew, a third-year computer engineering student at [UCLA](https://www
 
 ### Currently working on
 
-- finishing up on [domain search](github.com/matthew-chandler/domain-search)
+- finishing up on [domain check](github.com/matthew-chandler/domain-check)
 - a couple private repos that will go public at some point 😄
 
 ### My websites
