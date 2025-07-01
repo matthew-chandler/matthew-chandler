@@ -4,7 +4,8 @@ Hi, I'm Matthew, a third-year computer engineering student at [UCLA](https://www
 
 ### Currently working on
 
-- a couple private repos that will go public at some point 😄
+- writing various articles for my website
+- random web apps
 
 ### My websites
 1. [EPS View](eps.machandler.com), a web tool that automatically generates a graph and table for any publicly-traded stock ticker
